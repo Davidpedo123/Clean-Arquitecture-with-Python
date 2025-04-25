@@ -1,0 +1,6 @@
+pyproject.toml
+src/main.py
+src/regionales_centros.egg-info/PKG-INFO
+src/regionales_centros.egg-info/SOURCES.txt
+src/regionales_centros.egg-info/dependency_links.txt
+src/regionales_centros.egg-info/top_level.txt
